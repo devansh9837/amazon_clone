@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/devansh9837.github.io/amazon_clone/static/css/main.d30b8548.chunk.css",
-    "main.js": "/devansh9837.github.io/amazon_clone/static/js/main.58d0b563.chunk.js",
-    "main.js.map": "/devansh9837.github.io/amazon_clone/static/js/main.58d0b563.chunk.js.map",
-    "runtime-main.js": "/devansh9837.github.io/amazon_clone/static/js/runtime-main.f830b75d.js",
-    "runtime-main.js.map": "/devansh9837.github.io/amazon_clone/static/js/runtime-main.f830b75d.js.map",
-    "static/js/2.0760f56e.chunk.js": "/devansh9837.github.io/amazon_clone/static/js/2.0760f56e.chunk.js",
-    "static/js/2.0760f56e.chunk.js.map": "/devansh9837.github.io/amazon_clone/static/js/2.0760f56e.chunk.js.map",
-    "index.html": "/devansh9837.github.io/amazon_clone/index.html",
-    "precache-manifest.74ddc4d235a13bbf62b178f4dcde422a.js": "/devansh9837.github.io/amazon_clone/precache-manifest.74ddc4d235a13bbf62b178f4dcde422a.js",
-    "service-worker.js": "/devansh9837.github.io/amazon_clone/service-worker.js",
-    "static/css/main.d30b8548.chunk.css.map": "/devansh9837.github.io/amazon_clone/static/css/main.d30b8548.chunk.css.map",
-    "static/js/2.0760f56e.chunk.js.LICENSE.txt": "/devansh9837.github.io/amazon_clone/static/js/2.0760f56e.chunk.js.LICENSE.txt"
+    "main.css": "/amazon_clone/static/css/main.d30b8548.chunk.css",
+    "main.js": "/amazon_clone/static/js/main.48ff82ff.chunk.js",
+    "main.js.map": "/amazon_clone/static/js/main.48ff82ff.chunk.js.map",
+    "runtime-main.js": "/amazon_clone/static/js/runtime-main.158489df.js",
+    "runtime-main.js.map": "/amazon_clone/static/js/runtime-main.158489df.js.map",
+    "static/js/2.710f796f.chunk.js": "/amazon_clone/static/js/2.710f796f.chunk.js",
+    "static/js/2.710f796f.chunk.js.map": "/amazon_clone/static/js/2.710f796f.chunk.js.map",
+    "index.html": "/amazon_clone/index.html",
+    "precache-manifest.e56b468ebd928ebd4f0e99b978167761.js": "/amazon_clone/precache-manifest.e56b468ebd928ebd4f0e99b978167761.js",
+    "service-worker.js": "/amazon_clone/service-worker.js",
+    "static/css/main.d30b8548.chunk.css.map": "/amazon_clone/static/css/main.d30b8548.chunk.css.map",
+    "static/js/2.710f796f.chunk.js.LICENSE.txt": "/amazon_clone/static/js/2.710f796f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f830b75d.js",
-    "static/js/2.0760f56e.chunk.js",
+    "static/js/runtime-main.158489df.js",
+    "static/js/2.710f796f.chunk.js",
     "static/css/main.d30b8548.chunk.css",
-    "static/js/main.58d0b563.chunk.js"
+    "static/js/main.48ff82ff.chunk.js"
   ]
 }
